@@ -1,4 +1,4 @@
-public class main {
+public class test {
     
 	public static void main(String[] args){
     
@@ -40,9 +40,9 @@ public class main {
     
 		}
     
-		System.out.println("Distance",k);
+		System.out.println("Distance"+k);
    
-		System.out.println("Time",y);
+		System.out.println("Time"+y);
     
 	}
 
